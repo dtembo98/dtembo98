@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Folks</h1>
-<h3 align="center">My name is Dvid Tembo and I’m a software developer(Full Stack | Mobile). Love to make/learn interesting things and also to meet amazing developers and connect with them , I MAKE BLAZINGLY FAST API'S AND PIXEL PERFECT UI'S.</h3>
+My name is Dvid Tembo and I’m a software developer(Full Stack | Mobile). Love to make/learn interesting things and also to meet amazing developers and connect with them , I MAKE BLAZINGLY FAST API'S AND PIXEL PERFECT UI'S.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dtembo98&label=Profile%20views&color=0e75b6&style=flat" alt="dtembo98" /> </p>
 
