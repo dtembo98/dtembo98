@@ -9,7 +9,7 @@ My name is David Tembo and I’m a software developer(Full Stack | Mobile). Love
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dtembo98&label=Profile%20views&color=0e75b6&style=flat" alt="dtembo98" /> </p>
 
-- 🔭 I’m currently working on [omnnis bite](https://github.com/dtembo98/react-movie-gallery)
+- 🔭 I’m currently working on [Movie App](https://github.com/dtembo98/react-movie-gallery)
 
 - 🌱 I’m currently learning **Data Analytics at ALT-Udacity.**
 
