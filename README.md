@@ -2,7 +2,7 @@
 
 
 
-My name is David Tembo and I’m a software developer(Full Stack | Mobile). Love to make/learn interesting things and also to meet amazing developers and connect with them , I MAKE BLAZINGLY FAST API'S AND PIXEL PERFECT UI'S.
+My name is David Tembo and I’m a software developer(Full Stack | Mobile) and a Data Analytics enthusiast.I Love to make/learn interesting things and also to meet amazing developers and connect with them , I MAKE BLAZINGLY FAST API'S AND PIXEL PERFECT UI'S.
 
 
 
