@@ -11,7 +11,7 @@ My name is David Tembo and I’m a software developer(Full Stack | Mobile). Love
 
 - 🔭 I’m currently working on [omnnis bite](https://github.com/dtembo98/omnis-bite)
 
-- 🌱 I’m currently learning **DAPP development with solidity.**
+- 🌱 I’m currently learning **Data Analytics at ALT-Udacity.**
 
 - 🤝 I’m looking for help with [blockchain/hedera](https://hedera22.devpost.com/?ref_feature=challenge&ref_medium=discover)
 
